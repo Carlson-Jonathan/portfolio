@@ -1,0 +1,145 @@
+* { 
+    margin: 0; 
+    box-sizing: border-box; 
+}
+
+body {
+    background-image: url("../images/grass.jpg");
+    background-attachment: fixed;
+    background-size: auto;
+    width: 800px;
+    margin: auto;
+    height: 450px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+    margin
+}
+
+h1 {
+    display: block;
+    width: 800px;
+    text-align: center;
+    margin: 50px auto 0;
+    background-color: #003300;
+    color: lightgreen;
+    font-size: 4em;
+    padding: 10px;
+    border-radius: 40px 40px 0 0;
+    box-shadow: 12px 12px 5px #444444;
+
+}
+
+h2 {
+    text-align: center;
+    line-height: 30px;
+    color: yellow;
+    font-size: 1.3em;
+    font-family: Arial;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.3em;
+    color: #e6e600;
+    margin: 15px 0 0;
+    font-family: Arial;
+}
+
+h4 {
+    font-size: 1.25em;
+    color: #003300;
+    font-family: Arial;
+    padding: 21px 20px 0px 20px;
+}
+
+.contact {
+    color: #ccffcc;
+    font-size: 0.9em;
+    font-weight: 100;
+}
+
+.contact a {
+    color: #ccffcc;
+}
+
+.line {
+    border-bottom: solid yellow 1px;
+}
+
+.detail {
+    font-size: 0.8em;
+}
+
+main {
+    background-color: #ccffcc;
+    background: rgb(120, 200, 120);
+    box-shadow: 12px 12px 5px #444444;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+
+#column1 {
+    width: 35%;
+    background-color: #003300;
+    height: 100vh;
+    padding: 0 25px 0;
+}
+
+#column2 {
+    width: 65%;
+    padding: 0 25px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+li {
+    list-style: none;
+    font-size: 1.25em;
+    padding: 3px;
+}
+
+li a {
+    color: #003300;
+    line-height: 24px;
+}
+
+li:hover {
+    background-color: #004d00;
+    color: yellow;
+}
+
+li a:hover {
+    color: #e6e600;
+}
+
+footer a {
+    color: lightgreen;
+    letter-spacing: 1px;
+}
+
+footer {
+    background-color: #003300;
+    padding: 30px;
+    color: lightgreen;
+    border-radius: 0 0 40px 40px;
+    box-shadow: 12px 12px 5px #444444;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#fixed {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
