@@ -46,16 +46,15 @@
              - and main information that the page is displaying. 
             ------------------------------------------------------------------>
                 <div class="column" id="column2"><br>
-                     <h4><i>"Jonathan is a dedicated professional who not only ensures that the job gets done, but will find innovative ways to create solutions to problems. He doesn't rely on being "told" what to do. He is observant and ensures that the extra mile is achieved. His business and management skills are sharp. Anyone would be lucky to have him on their team."</i><br>-Damon Hall<br><br>   
+                     <h4><i>"Jonathan is a dedicated professional who not only ensures that the job gets done, but will find innovative ways to create solutions to problems. He doesn't rely on being "told" what to do. He is observant and ensures that the extra mile is achieved. His business and management skills are sharp. Anyone would be lucky to have him on their team."</i><br><div style="text-align: right; margin-right: 20px;">-Damon Hall</div><br> 
                     
                     <div class="linerc"></div>
                     
                     <h3>Credentials</h4>
                     <ul>
-                        <a href="images/Jonathan%20Carlson's%20Resume.pdf"/a>
-                            <li>Resume</li></a>
-                        <a href="images/Letter%20of%20Recommendation%20-%20Martin%20Roggio.pdf">
-                            <li>References</li>
+                        <a href="images/Jonathan%20Carlson's%20Resume.pdf" target="_blank"><li>Resume</li></a>
+                        <a href="pages/references.php"><li>References</li></a>
+                        <a href="images/Letter%20of%20Recommendation%20-%20Martin%20Roggio.pdf" target="_blank">
                             <li>Letter of Recommendation</li></a>
                     </ul>
                     <h3>Coding Projects</h3>

@@ -20,7 +20,7 @@
 					<h3>Requirements</h3>
 						<p class="data">Pygame Module</p>
 					<h3>Links & Downloads</h2>
-						<a href="../documents/Serpentine-0.0.0-win32.msi" download><p class="datalnk">.msi installer file for Windows (18.3MB)</p></a>
+						<a href="../documents/Serpentine-0.0.0-win32.msi" download><p class="datalnk">.MSI installer file for Windows (18.3MB)</p></a>
 						<a href="https://github.com/Carlson-Jonathan/serpentine" target="_blank"><p class="datalnk">Code Repository (GitHub)</p></a>
 
 				</div>
