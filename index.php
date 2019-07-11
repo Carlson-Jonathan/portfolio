@@ -64,7 +64,7 @@
                         <a href="pages/webprojects.php"><li>Web Development Projects</li></a>
                         <a href="pages/microprocessor.php"><li>Digital Micro-Processor</li></a>
                         <a href="pages/datastructures.php"><li>Data Structures (C++)</li></a>  
-                        <a href=""><li>Social Security Calculators</li></a>
+                        <a href="pages/SSA.php"><li>Social Security Calculators</li></a>
                     </ul>
                 </div>
             </div>
