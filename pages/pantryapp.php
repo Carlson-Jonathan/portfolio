@@ -13,7 +13,7 @@
 			</div>
 		</header>
 
-		<main style="height: 975px">
+		<main>
 			<div class="row">
 				<div class="column" id="column1" style="height: 975px">
 					

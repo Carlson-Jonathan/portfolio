@@ -23,8 +23,8 @@
                     <h3>Contact:</h3>
                     <p class="contact">705 Larry Drive<br> Madison, Al 35758<br><br>
                     H: 256-513-6210<br>
-                    C: 256-665-8512<br>
-                    O: 256-289-1177</p><br>
+                    C: 256-289-1177<br>
+                    O: 256-665-8512</p><br>
                     <p class="contact">
                         Work:<br>
                         <a href="mailto:Jonathan.C.Carlson@SSA.gov?Subject=Position%20Vacancy" 
@@ -58,14 +58,12 @@
                             <li>Letter of Recommendation</li></a>
                     </ul><br>
                     <h3>Coding Projects</h3>
-                    <ul class="indexli" style="line-height: 4">
+                    <ul class="indexli">
                         <a href="pages/serpentine.php"><li>Serpentine (Python)</li></a>
                         <a href="pages/pantryapp.php"><li>Stockpile Pantry App (Java)</li></a>  
-                        <a href=""><li>Data Types (C++)</li></a>  
-                        <a href="pages/webprojects.php">
-                            <li>Web Development Projects</li></a>
-                        <a href="pages/processor.html">
-                            <li>Digital Micro-Processor</li></a>
+                        <a href="pages/webprojects.php"><li>Web Development Projects</li></a>
+                        <a href="pages/microprocessor.php"><li>Digital Micro-Processor</li></a>
+                        <a href="pages/datastructures.php"><li>Data Structures (C++)</li></a>  
                         <a href=""><li>Social Security Calculators</li></a>
                     </ul>
                 </div>

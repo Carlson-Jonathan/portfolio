@@ -8,6 +8,9 @@
     <body>
         <header>
             <h1>References</h1>
+            <div class="relative">
+                <a href="../index.php"><img id="home" src="../images/home.jpg"></a>
+            </div>             
         </header>
 
         <main>
@@ -56,17 +59,17 @@
                 <div class="column" id="column2" style="width: 50%">
                     <h3>Personal</h3><br>
                     <p class="data" style="color: #003300">
-                        <strong>Lon Stevens</strong><br> 
-                        Church of Jesus Christ of Latter-Day-Saints<br>
-                        Church Leader<br>
-                        Phone: 256-464-5542<br> 
-                        Email: <a href="mailto:lonmpb@gmail.com?Subject=Reference%20Check:%20Jonathan%20Carlson" target="_top" style="color: #003300">lonmpb@gmail.com</a><br>  
+                        <strong>Mathew Howell</strong><br> 
+                        Criminal Investigator for IRS<br>
+                        Friend / Former Co-worker<br>
+                        Phone: 469-919-8190<br> 
+                        Email: <a href="mailto:mathewgrayhowell@gmail.com?Subject=Reference%20Check:%20Jonathan%20Carlson" target="_top" style="color: #003300">MathewGrayHowell@Gmail.com</a><br>  
                     </p><br>
                     <div class="linelc" style="border-bottom: solid 1px #003300"></div><br>
                     <p class="data" style="color: #003300">
                         <strong>Damon Hall</strong><br> 
                         Online Marketing Manager<br>
-                        Friend/Former Co-worker<br>
+                        Friend / Former Co-worker<br>
                         Phone: 208-860-8794<br> 
                         Email: <a href="mailto:damonwhall@gmail.com?Subject=Reference%20Check:%20Jonathan%20Carlson" target="_top" style="color: #003300">damonwhall@gmail.com</a><br>
                     </p><br>
@@ -77,7 +80,15 @@
                         Father-in-law<br>
                         Phone (H): 256-457-5645, (W): 256-876-7091<br> 
                         Email: <a href="mailto:Martin.roggio@us.army.mil?Subject=Reference%20Check:%20Jonathan%20Carlson" target="_top" style="color: #003300">Martin.roggio@us.army.mil</a><br>
-                    </p><br>                    
+                    </p><br>  
+                    <div class="linelc" style="border-bottom: solid 1px #003300"></div><br>
+                    <p class="data" style="color: #003300">
+                        <strong>Lon Stevens</strong><br> 
+                        Church of Jesus Christ of Latter-Day-Saints<br>
+                        Church Leader<br>
+                        Phone: 256-464-5542<br> 
+                        Email: <a href="mailto:lonmpb@gmail.com?Subject=Reference%20Check:%20Jonathan%20Carlson" target="_top" style="color: #003300">lonmpb@gmail.com</a><br>  
+                    </p><br>                  
                 </div>
                 </div>
             </div>

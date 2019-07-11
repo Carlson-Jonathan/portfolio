@@ -128,13 +128,14 @@ main {
 #column1 {
     width: 35%;
     background-color: #003300;
-    height: 100vh;
+    height: auto;
     padding: 0 25px 0;
 }
 
 #column2 {
     width: 65%;
     padding: 0 25px;
+    height: auto;
 }
 
 .row:after {
@@ -151,12 +152,12 @@ li {
     list-style: none;
     font-size: 1.25em;
     padding: 3px;
-    line-height: 2;
+    line-height: 1.8
 }
 
 li a {
     color: #003300;
-    line-height: 24px;
+    line-height: 20px;
 }
 
 li:hover {
