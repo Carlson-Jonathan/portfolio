@@ -36,7 +36,7 @@
 						<img src="../images/benefitcalc.jpg" alt="SSA Calc" height="300" width="50">
 					</span>
 
-					<span class="block2" style="width: 16%">
+					<span class="block2" style="width: 235px">
 						<img src="../images/LAFcalc.jpg" alt="SSA Calc" height="200" width="50">
 					</span>
 				</div>
