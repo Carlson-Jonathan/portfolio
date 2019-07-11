@@ -8,6 +8,9 @@
 	<body>
 		<header>
 			<h1>Serpentine</h1>
+			<div class="relative">
+				<a href="../index.php"><img id="home" src="../images/home.jpg"></a>
+			</div>
 		</header>
 
 		<main>
@@ -15,12 +18,12 @@
 				<div class="column" id="column1">
 					
 					<img src="../images/serpentine.png" alt="Project Picture">
-					<h3>Design Technology</h3>
+					<h3> Technology</h3>
 					<p class="data">Pyhon / Pygame</p>
 					<h3>Requirements</h3>
 						<p class="data">Pygame Module</p>
-					<h3>Links & Downloads</h2>
-						<a href="../documents/Serpentine-0.0.0-win32.msi" download><p class="datalnk">.MSI installer file for Windows (18.3MB)</p></a>
+					<h3>Downloads</h2>
+						<a href="https://carlson-jonathan.github.io/documents/Serpentine-0.0.0-win32.msi" download><p class="datalnk">.MSI installer file for Windows (18.3MB)</p></a>
 						<a href="https://github.com/Carlson-Jonathan/serpentine" target="_blank"><p class="datalnk">Code Repository (GitHub)</p></a>
 
 				</div>

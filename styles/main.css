@@ -18,6 +18,7 @@ img {
 }
 
 h1 {
+    position: relative;
     display: block;
     width: 800px;
     text-align: center;
@@ -28,6 +29,21 @@ h1 {
     padding: 10px;
     border-radius: 40px 40px 0 0;
     box-shadow: 12px 12px 5px #444444;
+    z-index: -1;
+}
+
+div.relative {
+    position: relative;
+    width: 800px;
+    height: 93px;
+    margin-top: -93px;
+}
+
+#home {
+    position: absolute;
+    width: 50px;
+    right: 30px;
+    top: 22px;
 }
 
 h2 {
@@ -41,7 +57,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1.75em;
     color: #e6e600;
     margin: 15px 0 0;
     font-family: Arial;
@@ -49,14 +65,20 @@ h3 {
 }
 
 h4 {
-    font-size: 1em;
+    font-size: 1.1em;
+    color: #003300;
+    line-height: 1.4;
+}
+
+.indexli a {
     color: #003300;
 }
 
 .contact {
-    color: #ccffcc;
+    color: #eeffee;
     font-size: 0.9em;
     font-weight: 100;
+    line-height: 1.3;
 }
 
 .contact a {
@@ -68,10 +90,10 @@ h4 {
 }
 
 .datalnk, .data {
-    color: white;
+    color: #eeffee;
     font-size: 1em;
-    margin-left: 25px;
     padding: 5px;
+    line-height: 1.3;
 }
 
 .datalnk:hover {
@@ -93,9 +115,9 @@ h4 {
 }
 
 main {
-    background-color: #ccffcc;
     background: rgb(120, 200, 120);
     box-shadow: 12px 12px 5px #444444;
+    z-index: 2;
 }
 
 .column {
@@ -121,10 +143,15 @@ main {
   clear: both;
 }
 
+.weblink:hover {
+    background-color: #003300;
+}
+
 li {
     list-style: none;
     font-size: 1.25em;
     padding: 3px;
+    line-height: 2;
 }
 
 li a {
@@ -139,6 +166,21 @@ li:hover {
 
 li a:hover {
     color: #e6e600;
+}
+
+.block1 {
+    position: relative;
+    display: inline-block;
+    width: 35%;
+    height: 300px;
+    margin-right: 5px;
+}
+
+.block2 {
+    position: absolute;
+    display: inline-block;
+    width: 100px;
+    height: 300px;
 }
 
 footer a {

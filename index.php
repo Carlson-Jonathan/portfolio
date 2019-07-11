@@ -50,33 +50,23 @@
                     
                     <div class="linerc"></div>
                     
-                    <h3>Credentials</h4>
-                    <ul>
-                        <a href="images/Jonathan%20Carlson's%20Resume.pdf" target="_blank"><li>Resume</li></a>
+                    <h3>Credentials</h3>
+                    <ul class="indexli">
+                        <a href="https://carlson-jonathan.github.io/documents/Jonathan%20Carlson's%20Resume.pdf" target="_blank"><li>Resume</li></a>
                         <a href="pages/references.php"><li>References</li></a>
-                        <a href="images/Letter%20of%20Recommendation%20-%20Martin%20Roggio.pdf" target="_blank">
+                        <a href="https://carlson-jonathan.github.io/documents/Letter%20of%20Recommendation%20-%20Martin%20Roggio.pdf" target="_blank">
                             <li>Letter of Recommendation</li></a>
-                    </ul>
+                    </ul><br>
                     <h3>Coding Projects</h3>
-                    <ul>
+                    <ul class="indexli" style="line-height: 4">
                         <a href="pages/serpentine.php"><li>Serpentine (Python)</li></a>
                         <a href="pages/pantryapp.php"><li>Stockpile Pantry App (Java)</li></a>  
                         <a href=""><li>Data Types (C++)</li></a>  
-                        <a href="pages/sra.html">
-                            <li>Front-End Web Design (HTML, CSS, JavaScript)</li></a>
-                        <a href=""><li>JS DOM manipulation (JavaScript)</li></a>  
-                        <a href=""><li>Database Design (PostgreSQL, PHP)</li></a>   
-                        <a href=""><li>API Feeds (Node.js, AJAX)</li></a>   
-                        <a href=""><li>Rocket City Rebels</li></a>  
-                    </ul>
-            
-                    <h3>Other</h3>
-                    <ul>
-                        <a href=""><li>Labyrinthia (Python)</li></a>
+                        <a href="pages/webprojects.php">
+                            <li>Web Development Projects</li></a>
                         <a href="pages/processor.html">
                             <li>Digital Micro-Processor</li></a>
-                        <a href=""><li>Social Security Benefits Calculator</li></a>
-                        <a href=""><li>Social Security LAF Calculator</li></a>
+                        <a href=""><li>Social Security Calculators</li></a>
                     </ul>
                 </div>
             </div>
